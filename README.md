@@ -2,8 +2,8 @@
 
 Projeto de uma rede social formada a partir do aprimoramento de funcionalidades presentes em outras redes sociais.
 
-<div align="center">
+<div align="center"><b>
   
 [Abrir board](https://github.com/orgs/socialnr/projects/1)
 
-</div>
+</b></div>
